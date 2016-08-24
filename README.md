@@ -1,1 +1,0 @@
-# wiiFit_example
